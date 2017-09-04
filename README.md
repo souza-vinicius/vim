@@ -1,1 +1,1 @@
-vim
+Configuração básica do vim
